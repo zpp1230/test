@@ -9,4 +9,4 @@ spring:
     virtual-host: /
     host: localhost
     username: guest
-    password: guest 
+    password: guest
