@@ -5,3 +5,8 @@ spring:
     type: com.zaxxer.hikari.HikariDataSource
     username: '{cipher}4db786d1f4d1f26e9c0e477cbcb96a5c01aacd4de4f583e064190feeedce09b6'
     password: '{cipher}f682d5656e9a29d3dc2421d8a2a6d81dd4d213fddcdb575d3df72efa7afe328e'
+  rabbitmq:
+    virtual-host: /
+    host: localhost
+    username: guest
+    password: guest 
